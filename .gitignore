@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+
+# misc
+.DS_Store
+../.DS_Store
+.vscode
+.idea
+npm-debug.log
+
+
+# environment variables
+.env
